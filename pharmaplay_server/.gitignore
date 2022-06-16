@@ -1,0 +1,11 @@
+# Files and directories created by pub.
+.dart_tool/
+.packages
+
+# Conventional directory for build output.
+build/
+.env*
+
+# "JSON to Dart Model" generator tracker files locations.
+/.json_models/
+models.jsonc
